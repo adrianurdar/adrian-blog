@@ -22,3 +22,4 @@ WTForms==2.3.3
 email_validator
 Flask-Migrate
 Flask-Script
+python-dotenv
